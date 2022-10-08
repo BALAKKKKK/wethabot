@@ -1,4 +1,6 @@
-# Here I will do the necessary tests
-print('Hello madafakas')
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-a = 1
+
+
